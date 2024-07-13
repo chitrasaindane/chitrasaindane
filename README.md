@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chitra Saindane</h1>
+[!["Chitra-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=4000&pause=200&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Chitra+Saindane+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Chitra+Encoding+🪀)]
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" style=" border-radius: 50%;" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
