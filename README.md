@@ -37,7 +37,7 @@
 </br>
 <p align= "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitrasaindane&show_icons=true&locale=en&layout=compact" alt="chitrasaindane" /></p>
 </br>
-</br>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrasaindane&show_icons=true&locale=en" alt="chitrasaindane" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitrasaindane&" alt="chitrasaindane" /></p>
