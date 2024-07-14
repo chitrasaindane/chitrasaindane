@@ -1,4 +1,4 @@
-[!["Chitra-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=4000&pause=200&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Chitra+Saindane+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Chitra+Encoding+🪀)]
+!["Chitra-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=4000&pause=200&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Chitra+Saindane+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Chitra+Encoding+🪀)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
