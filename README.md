@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="500" style=" border-radius: 50%;" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-🌱 I’m currently learning React
+
 
 📫 How to reach me **saindanechitra5@gmail.com**
 
