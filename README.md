@@ -44,7 +44,7 @@
 
 <!-- Snake Eating My Contributions -->
 <div align="center">
-  <img src="https://github.com/chitrasaindane/chitrasaindane/blob/master/Snake/github-snake-dark.svg#gh-dark-mode-only" alt="Github Snake"/>
-   <img src="https://github.com/chitrasaindane/chitrasaindane/blob/master/Snake/github-snake-light.svg#gh-light-mode-only" alt="Github Snake"/>
+  <img src="https://github.com/chitrasaindane/chitrasaindane/blob/main/Snake/github-snake-dark.svg#gh-dark-mode-only" alt="Github Snake"/>
+   <img src="https://github.com/chitrasaindane/chitrasaindane/blob/main/Snake/github-snake-light.svg#gh-light-mode-only" alt="Github Snake"/>
 </div>
 
