@@ -41,3 +41,10 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrasaindane&show_icons=true&locale=en" alt="chitrasaindane" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitrasaindane&" alt="chitrasaindane" /></p>
+
+<!-- Snake Eating My Contributions -->
+<div align="center">
+  <img src="https://github.com/chitrasaindane/chitrasaindane/blob/master/Snake/github-snake-dark.svg#gh-dark-mode-only" alt="Github Snake"/>
+   <img src="https://github.com/chitrasaindane/chitrasaindane/blob/master/Snake/github-snake-light.svg#gh-light-mode-only" alt="Github Snake"/>
+</div>
+
